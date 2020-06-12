@@ -8,7 +8,7 @@ body {
   padding: 4px;
 }
 
-code {
+code, .h2 {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
