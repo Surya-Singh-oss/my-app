@@ -18,7 +18,7 @@ code, h1, h2, h4 {
   width: auto;
 }
 
-.p{
-  height: 90%;
-  width: auto;
+.h3{
+  height: 100%;
+  width: fit-content;
 }
