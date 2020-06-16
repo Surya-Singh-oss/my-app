@@ -14,8 +14,9 @@ code, h1, h2, h4 {
 }
 
 .h1{
-  height: 90%;
-  width: auto;
+  display: flexbox;
+  height: 100%;
+  width: 100%;
 }
 
 .p{
