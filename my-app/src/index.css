@@ -17,3 +17,8 @@ code, .h2, h1 {
   height: 90%;
   width: auto;
 }
+
+.h3{
+  height: 100%;
+  width: fit-content;
+}
